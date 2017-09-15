@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/transactionTab"
+        android:title="@string/transactionTitle"
+        android:icon="@drawable/transaction_icon"
+        app:showAsAction="withText"/>
+    <item
+        android:id="@+id/bidsTab"
+        android:title="@string/bidsTitle"
+        android:icon="@drawable/bid_icon"
+        app:showAsAction="withText"/>
+    <item
+        android:id="@+id/asksTab"
+        android:title="@string/asksTitle"
+        android:icon="@drawable/ask_icon"
+        app:showAsAction="withText"/>
+    <item
+        android:id="@+id/priceAlertTab"
+        android:title="@string/priceAlertTitle"
+        android:icon="@drawable/alert_icon"
+        app:showAsAction="withText"/>
+</menu>

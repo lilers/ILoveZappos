@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ILoveZappos</string>
+
+    <!--Bottom navigation titles-->
+    <string name="transactionTitle">Transactions</string>
+    <string name="bidsTitle">Bids</string>
+    <string name="asksTitle">Asks</string>
+    <string name="priceAlertTitle">Price Alert</string>
+
+    <!--Recycler view headers-->
+    <string name="price">Price</string>
+    <string name="amount">Amount</string>
+    <string name="value">Value</string>
+
+    <!--Price alert info-->
+    <string name="priceAlertDescription">If you would like to get an alert for when
+        bitcoin prices drop to a specific value, please set a price below</string>
+    <string name="priceAlertHint">Enter price here</string>
+    <string name="priceAlertButton"> Set Price Alert</string>
+
+    <!--Refresh-->
+    <string name="refresh">Refresh</string>
+</resources>
